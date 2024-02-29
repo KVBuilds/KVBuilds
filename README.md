@@ -1,30 +1,32 @@
 ### Hi there, I'm Keven. 👋
-
 <p>A web leader and product enthusiast that loves building cool things that make a difference.</p>
 
 ### Currently
 <p>Qumulo</p>
 
 ### Interests
-<p>
-* Growth/Web marketing
-* Web development
-* AI/LLM
-</p>
+<p><ul>
+<li>Growth/Web marketing</li>
+<li>Web development</li>
+<li>AI/LLM</li>
+</ul></p>
 
 ### Languages / Stack
-<p>
-* React
-* Nodejs/Express
-* Python
-* Vercel
-* Reddis
-* MongoDB
+<p><ul>
+<li>React</li>
+<li>Nodejs/Express</li>
+<li>Python</li>
+<li>Vercel</li> 
+<li>Reddis</li>
+<li>MongoDB</li>
+</ul>
 </p>
 
 ### Tools 
-* HuggingFace: https://huggingface.co/Kevbuilds
-* GPT: https://chat.openai.com/g/g-HRAAjCHi1-seo-1-optimized-keyword-research-tool-companion
+<p><ul>
+<li>HuggingFace: https://huggingface.co/Kevbuilds</li>
+  <li>GPT: https://chat.openai.com/g/g-HRAAjCHi1-seo-1-optimized-keyword-research-tool-companion</li>
+  </ul></p>
 
 
 <!--
