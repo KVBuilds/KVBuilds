@@ -1,21 +1,26 @@
 ### Hi there, I'm Keven. 👋
 
-A web leader and product enthusiast that loves building cool things that make a difference.
+<p>A web leader and product enthusiast that loves building cool things that make a difference.</p>
 
 ### Currently
-Qumulo
+<p>Qumulo</p>
 
 ### Interests
+<p>
 * Growth/Web marketing
 * Web development
 * AI/LLM
+</p>
 
-### Languages
+### Languages / Stack
+<p>
 * React
 * Nodejs/Express
+* Python
 * Vercel
 * Reddis
-* Python
+* MongoDB
+</p>
 
 ### Tools 
 * HuggingFace: https://huggingface.co/Kevbuilds
