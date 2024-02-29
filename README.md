@@ -1,5 +1,26 @@
 ### Hi there, I'm Keven. 👋
 
+A web leader and product enthusiast that loves building cool things that make a difference.
+
+### Currently
+Qumulo
+
+### Interests
+* Growth/Web marketing
+* Web development
+* AI/LLM
+
+### Languages
+* React
+* Nodejs/Express
+* Vercel
+* Reddis
+
+### Tools 
+* HuggingFace: https://huggingface.co/Kevbuilds
+* GPT: https://chat.openai.com/g/g-HRAAjCHi1-seo-1-optimized-keyword-research-tool-companion
+
+
 <!--
 **KVBuilds/KVBuilds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
