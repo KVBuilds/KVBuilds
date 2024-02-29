@@ -15,6 +15,7 @@ Qumulo
 * Nodejs/Express
 * Vercel
 * Reddis
+* Python
 
 ### Tools 
 * HuggingFace: https://huggingface.co/Kevbuilds
