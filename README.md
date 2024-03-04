@@ -1,5 +1,6 @@
 ### Hi there, I'm Keven. 👋
 <p>A web leader and product enthusiast that loves building cool things that make a difference.🚀</p>
+<p>Currently building: A P2P-like consumer web app that connects customers with their audiences without the constraints privte or personal information getting in the way.</p>
 
 ### Currently
 <p>Qumulo</p>
