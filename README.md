@@ -1,5 +1,5 @@
 ### Hi there, I'm Keven. 👋
-<p>A web leader and product enthusiast that loves building cool things that make a difference.🚀</p>
+<p>A web leader and product enthusiast that is passionate about growing products and services-alike. When I'm not at work, I enjoy building cool things that make a difference.🚀</p>
 <p>Currently building: A P2P-like consumer web app that connects customers with their audiences without the constraints of private or personal information getting in the way.</p>
 
 ### Currently
@@ -19,6 +19,7 @@
 <li>Python</li>
 <li>Vercel</li> 
 <li>Reddis</li>
+<li>PostgreSQL</li>
 <li>MongoDB</li>
 </ul>
 </p>
