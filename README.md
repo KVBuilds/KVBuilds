@@ -1,10 +1,11 @@
  ### Hi there, I'm Keven. 👋
 <p>A web leader and product enthusiast that is passionate about growing products and services-alike. When I'm not at work, I enjoy building cool things that make a difference.🚀</p>
 <p>What I'm building: A P2P-like consumer web app that connects brands with their audiences without the constraints of private or personal information getting in the way.</p>
+<hr></hr>
 
 ### Currently
 <p>Qumulo</p>
-<hr></hr>
+
 ### Interests
 <p><ul>
 <li>Growth/Web marketing</li>
