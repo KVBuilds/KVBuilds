@@ -4,7 +4,7 @@
 
 ### Currently
 <p>Qumulo</p>
-
+<hr></hr>
 ### Interests
 <p><ul>
 <li>Growth/Web marketing</li>
