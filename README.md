@@ -17,7 +17,7 @@
 
 ### Languages / Stack
 <p><ul>
-<li>React</li>
+<li>React/Nextjs</li>
 <li>Nodejs/Express</li>
 <li>Python</li>
 <li>Vercel</li> 
