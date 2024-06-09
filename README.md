@@ -20,7 +20,7 @@
 <li>React/Nextjs</li>
 <li>Nodejs/Express</li>
 <li>Python</li>
-<li>Vercel</li> 
+<li>Vercel, AWS Amplify, Railway</li> 
 <li>Reddis</li>
 <li>PostgreSQL</li>
 <li>MongoDB</li>
