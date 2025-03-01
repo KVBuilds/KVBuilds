@@ -5,7 +5,7 @@
 <hr></hr>
 
 ### Currently
-<p>Qumulo</p>
+<p>Protegrity</p>
 
 ### Interests
 <p><ul>
